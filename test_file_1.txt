@@ -1,0 +1,3 @@
+First line with necessary newline character.
+Second line to write to the file.
+Third line to write to the file.
